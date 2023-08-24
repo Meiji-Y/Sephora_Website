@@ -1,6 +1,14 @@
 # E-Commerce-Website
 E-Commerce-Website / Sephora / PHP JS HTML CSS
 
+<img src="https://github.com/Meiji-Y/Sephora_Website/blob/main/sample%20images/ss1.JPG" width="700" height="500">
+<img src="https://github.com/Meiji-Y/Sephora_Website/blob/main/sample%20images/ss2.JPG" width="700" height="500">
+<img src="https://github.com/Meiji-Y/Sephora_Website/blob/main/sample%20images/ss3.JPG" width="700" height="500">
+<img src="https://github.com/Meiji-Y/Sephora_Website/blob/main/sample%20images/ss4.JPG" width="700" height="500">
+<img src="https://github.com/Meiji-Y/Sephora_Website/blob/main/sample%20images/ss5.JPG" width="700" height="500">
+
+
+
 ## Abstract
 Our task was to build the Sephora online store from the ground up. We discovered that numerous tools have to be used in order to develop this site. In order to manage user behavior on the site and create a user-responsive interface, Javascript was utilized. MySQL was used for the database, and PHP was used for the database site connection. We realized the value of working in groups to build a website from the ground up and the significance of delegating tasks when building software in groups. As a result, we discovered that a website is divided into the front-end and the back-end, and that when working on this development, many groups have   to collaborate seamlessly with one another.
 ## Keywords
