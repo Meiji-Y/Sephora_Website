@@ -4,17 +4,11 @@ E-Commerce-Website / Sephora / PHP JS HTML CSS
 <img src="https://github.com/Meiji-Y/Sephora_Website/blob/main/sample%20images/ss1.JPG" width="700" height="500">
 
 
-
-
-
-
-
 ## Abstract
 Our task was to build the Sephora online store from the ground up. We discovered that numerous tools have to be used in order to develop this site. In order to manage user behavior on the site and create a user-responsive interface, Javascript was utilized. MySQL was used for the database, and PHP was used for the database site connection. We realized the value of working in groups to build a website from the ground up and the significance of delegating tasks when building software in groups. As a result, we discovered that a website is divided into the front-end and the back-end, and that when working on this development, many groups have to collaborate seamlessly with one another.
-
-<img src="https://github.com/Meiji-Y/Sephora_Website/blob/main/sample%20images/ss3.JPG" width="700" height="500">
 ## Keywords
 CSS, HTML, JS, PHP
+<img src="https://github.com/Meiji-Y/Sephora_Website/blob/main/sample%20images/ss3.JPG" width="700" height="500">
 ##  1.	Introduction
 An online store is what our project is. This website, where ladies spend more time, provides cosmetics, personal care items, and other items related to beauty. There are many different products available, including new releases, eco-friendly goods, and products from popular brands. This website can be used as a blog page in addition to being an e-commerce site. A great resource for males is the blog section, which offers advice on grooming, skin care, body care, and other topics. It has not disregarded nearby store searches in addition to site searching, so it can display the Sephora location that is closest to you based on your location.
 It has not disregarded nearby store searches in addition to site searches, so it can display the Sephora location that is closest to you based on your location. Additionally, the too-good-to-ignore online makeup area is captivating people' hearts by staying current with technology. By analyzing this drawback of online buying, which delays or prevents consumers from making a decision quickly, it provides a preview of how a product on the site will look on their faces with online makeup. Users feel more secure and can undoubtedly purchase the goods they truly desire in this way.
